@@ -1,5 +1,5 @@
 # Module 18 CitiBike Dashboard
-Tableau Challenge - Week 18 - Data Analytics Boot Camp - University of Oregon
+*Tableau Challenge - Week 18 - Data Analytics Boot Camp - University of Oregon*
 
 ## Background
 Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
@@ -21,22 +21,29 @@ My Python Jupyter Notebook is included in this repository for reference.
 
 ### Bike Stations by Popularity
 Grove St. Path and Hoboken Terminal River St & Hudson Place are the busiest locations for both starting and ending points.  Bike capacity and inventory at both of these locations should be maintained.  It may be worth looking to see if these stations should be expanded based customer need for both available of bikes as well as empty docks for returning bikes.
+
 ![Bike Stations by Popularity](images/popular-stations.JPG)
 
 ### Peak Usage by Time Frame
 Summer months are very popular, especially in July and August.  Weekend usage is the highest, which suggests bikes are often being used for leisure activities.  If we filter by weekends only, we can see that usage remains consistent throughout the day between 10am and 5pm.  
+
 If filtered by weekdays only, bike usage increase around 7am and 8am, and peaks again around 5pm and 6pm.  This suggests that bikes are being utilized by commuters to get to and from their workplace.  There is a significant peak during the evening, which shows a much higher demand as commuters use more bikes instead of other modes of transportation to get home at the end of the day.
+
 ![](images/peak-usage.JPG)
 
 ### Bike Usage by Customer Type
 Both members and casual users take advantage of the bikes during the warmer months and usage typically slows down during the winter months.  However, members tend to utilize the bikes consistently throughout the year than casual users.
+
 Looking at the usage by weekday, we can see that members will use the bikes mostly on the weekdays, whereas casual users will use the bikes more on the weekends.  This suggests that casual users tend to use the bikes for leisure activities rather than necessity.  While members are more likely using the bikes for utility and commuting.
+
 ![Bike Usage by Customer Type](images/customer-type.JPG)
 
 ### Classic & Electric Bike Preferences
 Classic style of bikes are much more popular than electric bikes.  Members prefer classic bike almost 8:1 than electric bikes.  Casual users prefer classic bikes 4:1 to electric bikes.  Casual users are more likely to use electric bikes.  Perhaps due to the novel nature of electric bikes.  It would be worth gathering survey data on bike preferences among both members and casual users to see if investment in electric bikes is worth the cost.
+
 Interestingly, use of electric bikes declines in popularity throughout the year, whereas the use of classic bikes goes up during the warmer months.
 
 This discrepancy may be due to the supply of electric bikes vs classic bikes.  Electric bikes may also need more maintenance and are more likely to be pulled out of service for maintenance.  Additional data around bike inventory and maintenance would be needed for further analysis.
+
 ![Classic & Electric Bike Preferences](images/bike-preferences.JPG)
 
