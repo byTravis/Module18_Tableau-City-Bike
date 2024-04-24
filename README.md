@@ -1,5 +1,6 @@
 # Module 18 CitiBike Dashboard
 *Tableau Challenge - Week 18 - Data Analytics Boot Camp - University of Oregon*
+![CitiBike Dashboard](images/project_banner.jpg)
 
 ## Background
 Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
@@ -16,7 +17,6 @@ My Python Jupyter Notebook is included in this repository for reference.
 
 - **Tableau Workbook:**  [Live Demo](https://public.tableau.com/app/profile/travis.cook3766/viz/Module18-CityBike/CitiBikebyLyft)
 - **Data Source:**  [CitiBike](https://citibikenyc.com/system-data)
-
 
 
 ### Bike Stations by Popularity
