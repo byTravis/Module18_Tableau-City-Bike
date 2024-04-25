@@ -41,7 +41,7 @@ Looking at the usage by weekday, we can see that members will use the bikes most
 ![Bike Usage by Customer Type](images/customer-type.JPG)
 
 ### Classic & Electric Bike Preferences
-Classic style of bikes are much more popular than electric bikes.  Members prefer classic bike almost 8:1 than electric bikes.  Casual users prefer classic bikes 4:1 to electric bikes.  Casual users are more likely to use electric bikes.  Perhaps due to the novel nature of electric bikes.  It would be worth gathering survey data on bike preferences among both members and casual users to see if investment in electric bikes is worth the cost.
+Classic style of bikes are much more popular than electric bikes.  Members prefer classic bikes (88%) than electric bikes(12%).  Casual users prefer classic bikes (81%) to electric bikes (19%).  Casual users are more likely to use electric bikes.  Perhaps due to the novel nature of electric bikes.  It would be worth gathering survey data on bike preferences among both members and casual users to see if investment in electric bikes is worth the cost.
 
 Interestingly, use of electric bikes declines in popularity throughout the year, whereas the use of classic bikes goes up during the warmer months.
 
